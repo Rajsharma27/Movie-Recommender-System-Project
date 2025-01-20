@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+web : sh setup.sh && streamlit run App.py
+=======
+web : sh setup.sh && streamlit run App.py
+>>>>>>> 8b3459880fc3e6fdd0fe758b85ed481e4624520c
